@@ -1,0 +1,14 @@
+D:\coding\c_sharp\CSharp1\CSTut1\bin\Debug\net8.0\CSTut1.exe
+D:\coding\c_sharp\CSharp1\CSTut1\bin\Debug\net8.0\CSTut1.deps.json
+D:\coding\c_sharp\CSharp1\CSTut1\bin\Debug\net8.0\CSTut1.runtimeconfig.json
+D:\coding\c_sharp\CSharp1\CSTut1\bin\Debug\net8.0\CSTut1.dll
+D:\coding\c_sharp\CSharp1\CSTut1\bin\Debug\net8.0\CSTut1.pdb
+D:\coding\c_sharp\CSharp1\CSTut1\obj\Debug\net8.0\CSTut1.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\c_sharp\CSharp1\CSTut1\obj\Debug\net8.0\CSTut1.AssemblyInfoInputs.cache
+D:\coding\c_sharp\CSharp1\CSTut1\obj\Debug\net8.0\CSTut1.AssemblyInfo.cs
+D:\coding\c_sharp\CSharp1\CSTut1\obj\Debug\net8.0\CSTut1.csproj.CoreCompileInputs.cache
+D:\coding\c_sharp\CSharp1\CSTut1\obj\Debug\net8.0\CSTut1.dll
+D:\coding\c_sharp\CSharp1\CSTut1\obj\Debug\net8.0\refint\CSTut1.dll
+D:\coding\c_sharp\CSharp1\CSTut1\obj\Debug\net8.0\CSTut1.pdb
+D:\coding\c_sharp\CSharp1\CSTut1\obj\Debug\net8.0\CSTut1.genruntimeconfig.cache
+D:\coding\c_sharp\CSharp1\CSTut1\obj\Debug\net8.0\ref\CSTut1.dll
