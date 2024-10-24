@@ -6,6 +6,13 @@ public static class Lesson1
 {
   //public Lesson1() {}
 
+  // enum inside a class
+  public enum Status {
+    Active,
+    Inactive,
+    Deleted
+  };
+
   public static void Run() {
     Console.WriteLine("Listen one!");
 /*
@@ -146,7 +153,19 @@ public static class Lesson1
     // also: ToArray() and Count()
 
     foreach (var num in evens) {
-      Console.WriteLine(num);
+      //Console.WriteLine(num);
     }
+
+    // using enum
+
+    // app status
+    var status = Status.Active;
+
+    Console.WriteLine(Status.Active); // Active
+    if (Status.Active == status) {
+      Console.WriteLine($"App status is: {status}");
+    }
+
+    
   }
 }
