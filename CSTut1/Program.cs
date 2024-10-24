@@ -9,9 +9,13 @@ class Program {
   static async Task Main(string[] args) {
     Console.WriteLine("******************************\n");
     //Lesson1.Run();
-    Lesson2 lesson2 = new Lesson2();
+    //Lesson2 lesson2 = new Lesson2();
 
-    await lesson2.DoAsyncStuff();
+    //await lesson2.DoAsyncStuff();
+
+    //LessonNull lessonNull = new LessonNull();
+
+    LessonGeneric lessonGeneric = new LessonGeneric();
 
     //new LessonOop();
     Console.WriteLine("\n******************************");
